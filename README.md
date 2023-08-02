@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrico Carrer</h1>
 <h3 align="center">Trilingual Sourcing professional and shoe dog with a new passion for Tech</h3>
 
-- 🔭 I’m currently working on **a Data Science Bootcamp**
+- 🔭 I’m currently training as a **Data Analysis Pioneer** at **Albany Beck**
 
 - 🌱 I’m currently learning **Python, SQL, Data Science**
 
